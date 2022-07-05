@@ -50,5 +50,5 @@ The code for the Genetic Algorithms was inspired by a template written by *kieco
 
 - ### Contact info:
       Author: Jaffar Totanji
-      E-mail: j.totanji@innopolis.university
+      E-mail: jaafarti@gmail.com
       Telegram: @KuroHata7
